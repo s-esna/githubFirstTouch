@@ -1,7 +1,6 @@
 package gr.aueb.cf.ch1;
 
 public class CowsAndBulls {
-
     public static void main(String[] args) {
 
         long whiteBull;
@@ -25,7 +24,7 @@ public class CowsAndBulls {
 //        whiteBull + blackBull = squaredNum;
 //        Math.sqrt(squaredNum) == int
 
-
+        System.out.println("This was meant to be a mathematical problem set by Archimedes");
 
     }
 }
